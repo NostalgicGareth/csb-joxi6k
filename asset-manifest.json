@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nostalgicgareth.github.io/csb-joxi6k/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://nostalgicgareth.github.io/csb-joxi6k/static/js/main.ce45dd3b.chunk.js",
+    "main.js.map": "https://nostalgicgareth.github.io/csb-joxi6k/static/js/main.ce45dd3b.chunk.js.map",
+    "runtime-main.js": "https://nostalgicgareth.github.io/csb-joxi6k/static/js/runtime-main.a67d6bcc.js",
+    "runtime-main.js.map": "https://nostalgicgareth.github.io/csb-joxi6k/static/js/runtime-main.a67d6bcc.js.map",
+    "static/js/2.cc863786.chunk.js": "https://nostalgicgareth.github.io/csb-joxi6k/static/js/2.cc863786.chunk.js",
+    "static/js/2.cc863786.chunk.js.map": "https://nostalgicgareth.github.io/csb-joxi6k/static/js/2.cc863786.chunk.js.map",
+    "index.html": "https://nostalgicgareth.github.io/csb-joxi6k/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://nostalgicgareth.github.io/csb-joxi6k/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.cc863786.chunk.js.LICENSE.txt": "https://nostalgicgareth.github.io/csb-joxi6k/static/js/2.cc863786.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a67d6bcc.js",
+    "static/js/2.cc863786.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.ce45dd3b.chunk.js"
+  ]
+}
